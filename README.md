@@ -1,7 +1,9 @@
-# Annabella
-1º Projeto - Um projeto simples, com a finalidade de praticar os primeiros conhecimentos com HTML e CSS.
+<h1 align="center">  Annabella </h1>
 
-##
+## 💡 Objetivo 
+ Um projeto simples, com a finalidade de praticar os primeiros conhecimentos com HTML e CSS.
+ 
+## 🖥 Prints do Projeto
 
 ![image](https://user-images.githubusercontent.com/61798509/99591813-1955fe80-29ce-11eb-9d09-f6dc0f3fa611.png)
 ![image](https://user-images.githubusercontent.com/61798509/99591835-1f4bdf80-29ce-11eb-8997-a39efa352d78.png)
